@@ -66,5 +66,5 @@ El Conversor de Monedas es una aplicación de consola en Java que permite a los 
 
 
 
-------> 100 [USD] son 9450.00 [ARS]
+------> 100 [USD] son 94500.00 [ARS]
 *******************************************
